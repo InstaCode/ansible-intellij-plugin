@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jasonedstrom.ansibleintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jasonedstrom.ansibleintellijplugin.MyBundle
 
 class MyApplicationService {
 
